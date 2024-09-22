@@ -6,6 +6,9 @@ public class User {
     private String name;
     private String age;
     private String address;
+    private String bran11;
+    private String bran13;
+    private String bran12;
     private String phone;
 
 }
