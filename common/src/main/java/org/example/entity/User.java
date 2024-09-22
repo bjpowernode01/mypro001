@@ -9,4 +9,6 @@ public class User {
     private String bran11;
     private String bran13;
     private String bran12;
+    private String phone;
+
 }
